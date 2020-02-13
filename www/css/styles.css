@@ -1,0 +1,40 @@
+img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.page-content {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.button {
+    background-color: black;
+    color: white;
+}
+
+
+.card {
+    display: inline-block;
+    padding: 20px;
+    align-content: center;
+}
+
+
+.about {
+    padding: 15px;
+}
+
+.panel-open {
+    font-family: 'Nanum Gothic', sans-serif;
+    color: gray;
+}
